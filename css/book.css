@@ -1,3 +1,8 @@
+body {background-color: black;}
+
+.wrapper
+  {max-width:700px;
+}
 .grid {
   grid-gap: 1em;
   margin: 0 0 2em 0;
