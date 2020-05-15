@@ -1,5 +1,6 @@
-body {background-color: black;}
-
+body {background-color: black;
+  color: white;}
+     
 .wrapper
   {max-width:700px;
 }
@@ -23,9 +24,10 @@ body {background-color: black;}
 
 .book h2 {
    margin-left: 1em;
-   font-family: 'Noto Sans JP', sans-serif;
+   font-family: 'Oxanium';
    font-weight: 900;
    font-size: 2em;
+   color:green;
 }
 
 .book-nav {
@@ -53,4 +55,16 @@ body {background-color: black;}
 .h1 {
   color: white;
   text-shadow: 2px 2px 5px white;
+}
+
+#footer {
+  background-color: blue;
+}
+
+#masthead {
+  background-color: red;
+}
+
+#masthead h4 a {
+  background-color: red
 }
