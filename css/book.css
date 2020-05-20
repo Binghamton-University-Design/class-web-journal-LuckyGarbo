@@ -1,5 +1,7 @@
-body {background-color: black;
-  color: white;}
+body {
+background-image: url("image/BKBG.png");
+
+}
      
 .wrapper
   {max-width:700px;
@@ -10,7 +12,7 @@ body {background-color: black;
 }
 
 .grid div {
-  background-color:rgba(0,0,0,0.1);
+  background-color:#fbe687(0,0,0,0.1);
 }
 
 .nice-image {
@@ -27,7 +29,7 @@ body {background-color: black;
    font-family: 'Oxanium';
    font-weight: 900;
    font-size: 2em;
-   color:green;
+   color:#6a6a68;
 }
 
 .book-nav {
@@ -49,7 +51,7 @@ body {background-color: black;
 }
 
 .body {
-  background-color: #ffffff;
+  background-color:#f0e4d8;
 }
 
 .h1 {
@@ -58,13 +60,13 @@ body {background-color: black;
 }
 
 #footer {
-  background-color: blue;
+  background-color: #a36955;
 }
 
 #masthead {
-  background-color: red;
+  background-color: #a36955;
 }
 
 #masthead h4 a {
-  background-color: red
+  background-color: #a36955;
 }
