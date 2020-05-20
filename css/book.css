@@ -1,6 +1,6 @@
 body {
-background-image: url("image/BKBG.png");
-
+  background-color: #4b4849;
+background-image: radial-gradient(#4b4849 20%,#1c1c1c 70% );
 }
      
 .wrapper
@@ -12,7 +12,7 @@ background-image: url("image/BKBG.png");
 }
 
 .grid div {
-  background-color:#fbe687(0,0,0,0.1);
+  background-color:#f7aa67(0,0,0,0.1);
 }
 
 .nice-image {
@@ -29,7 +29,7 @@ background-image: url("image/BKBG.png");
    font-family: 'Oxanium';
    font-weight: 900;
    font-size: 2em;
-   color:#6a6a68;
+   color:#f7aa67;
 }
 
 .book-nav {
@@ -60,13 +60,13 @@ background-image: url("image/BKBG.png");
 }
 
 #footer {
-  background-color: #a36955;
+  background-color: #f2a191;
 }
 
 #masthead {
-  background-color: #a36955;
+  background-color: #f2a191;
 }
 
 #masthead h4 a {
-  background-color: #a36955;
+  background-color: #f2a191;
 }
